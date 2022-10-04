@@ -28,12 +28,6 @@
           <scope>test</scope>
       </dependency>
 
-      <dependency>
-			    <groupId>org.projectlombok</groupId>
-			    <artifactId>lombok</artifactId>
-			    <version>1.18.22</version>
-			    <scope>provided</scope>
-		  </dependency>
   </dependencies>
 
   <build>
@@ -93,13 +87,13 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>jp.ac.nig.ddbj.patent.st26.App</mainClass>
+                        <mainClass>jp.ac.nig.ddbj.patent.st26.ParserDemoApp</mainClass>
                     </manifest>
                 </archive>
                 <descriptorRefs>
                     <descriptorRef>jar-with-dependencies</descriptorRef>
                 </descriptorRefs>
-                <finalName>ddbj_PatentSt26Parser</finalName>
+                <finalName>St26Parser</finalName>
                 <appendAssemblyId>false</appendAssemblyId>
             </configuration>
         </plugin>

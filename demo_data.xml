@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE INSDSet SYSTEM "INSD_INSDSeq.dtd">
+<INSDSet>
+  <INSDSeq>
+    <INSDSeq_locus>AB000095</INSDSeq_locus>
+    <INSDSeq_length>2399</INSDSeq_length>
+    <INSDSeq_moltype>mRNA</INSDSeq_moltype>
+    <INSDSeq_topology>linear</INSDSeq_topology>
+    <INSDSeq_division>HUM</INSDSeq_division>
+    <INSDSeq_update-date>04-MAR-1998</INSDSeq_update-date>
+    <INSDSeq_definition>Homo sapiens mRNA for hepatocyte growth factor activator inhibitor, complete cds</INSDSeq_definition>
+    <INSDSeq_primary-accession>AB000095</INSDSeq_primary-accession>
+    <INSDSeq_accession-version>AB000095.1</INSDSeq_accession-version>
+    <INSDSeq_source>Homo sapiens (human)</INSDSeq_source>
+    <INSDSeq_organism>Homo sapiens</INSDSeq_organism>
+    <INSDSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+Catarrhini; Hominidae; Homo.</INSDSeq_taxonomy>
+    <INSDSeq_references>
+      <INSDReference>
+        <INSDReference_reference>1</INSDReference_reference>
+        <INSDReference_position>1..2399</INSDReference_position>
+        <INSDReference_authors>
+          <INSDAuthor>Denda,K.</INSDAuthor>
+        </INSDReference_authors>
+        <INSDReference_title>Direct Submission
+</INSDReference_title>
+        <INSDReference_journal>Submitted (24-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+Contact:Kimitoshi Denda
+Tokyo Institute of Technology, Department of Life Science; 4259
+Nagatsuta, Midori-ku, Yokohama, Kanagawa 226-8501, Japan
+</INSDReference_journal>
+      </INSDReference>
+      <INSDReference>
+        <INSDReference_reference>2</INSDReference_reference>
+        <INSDReference_authors>
+          <INSDAuthor>Shimomura,T.</INSDAuthor>
+          <INSDAuthor>Denda,K.</INSDAuthor>
+          <INSDAuthor>Kitamura,A.</INSDAuthor>
+          <INSDAuthor>Kawaguchi,T.</INSDAuthor>
+          <INSDAuthor>Kito,M.</INSDAuthor>
+          <INSDAuthor>Kondo,J.</INSDAuthor>
+          <INSDAuthor>Kagaya,S.</INSDAuthor>
+          <INSDAuthor>Qin,L.</INSDAuthor>
+          <INSDAuthor>Takata,H.</INSDAuthor>
+          <INSDAuthor>Miyazawa,K.</INSDAuthor>
+          <INSDAuthor>Kitamura,N.</INSDAuthor>
+        </INSDReference_authors>
+        <INSDReference_title>Hepatocyte growth factor activator inhibitor, a novel Kunitz-type
+serine protease inhibitor
+</INSDReference_title>
+        <INSDReference_journal>J. Biol. Chem. 272, 6370-6376 (1997)
+</INSDReference_journal>
+      </INSDReference>
+    </INSDSeq_references>
+    <INSDSeq_feature-table>
+      <INSDFeature>
+        <INSDFeature_key>source</INSDFeature_key>
+        <INSDFeature_location>1..2399</INSDFeature_location>
+        <INSDFeature_intervals>
+          <INSDInterval>
+            <INSDInterval_from>1</INSDInterval_from>
+            <INSDInterval_to>2399</INSDInterval_to>
+            <INSDInterval_accession>AB000095.1</INSDInterval_accession>
+          </INSDInterval>
+        </INSDFeature_intervals>
+        <INSDFeature_quals>
+          <INSDQualifier>
+            <INSDQualifier_name>db_xref</INSDQualifier_name>
+            <INSDQualifier_value>H-InvDB:HIT000057890</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>db_xref</INSDQualifier_name>
+            <INSDQualifier_value>taxon:9606</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>mol_type</INSDQualifier_name>
+            <INSDQualifier_value>mRNA</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>organism</INSDQualifier_name>
+            <INSDQualifier_value>Homo sapiens</INSDQualifier_value>
+          </INSDQualifier>
+        </INSDFeature_quals>
+      </INSDFeature>
+      <INSDFeature>
+        <INSDFeature_key>CDS</INSDFeature_key>
+        <INSDFeature_location>176..1717</INSDFeature_location>
+        <INSDFeature_intervals>
+          <INSDInterval>
+            <INSDInterval_from>176</INSDInterval_from>
+            <INSDInterval_to>1717</INSDInterval_to>
+            <INSDInterval_accession>AB000095.1</INSDInterval_accession>
+          </INSDInterval>
+        </INSDFeature_intervals>
+        <INSDFeature_quals>
+          <INSDQualifier>
+            <INSDQualifier_name>product</INSDQualifier_name>
+            <INSDQualifier_value>hepatocyte growth factor activator inhibitor</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>protein_id</INSDQualifier_name>
+            <INSDQualifier_value>BAA25014.1</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>translation</INSDQualifier_name>
+            <INSDQualifier_value>MAPARTMARARLAPAGIPAVALWLLCTLGLQGTQAGPPPAPPGL
+PAGADCLNSFTAGVPGFVLDTNASVSNGATFLESPTVRRGWDCVRACCTTQNCNLALV
+ELQPDRGEDAIAACFLINCLYEQNFVCKFAPREGFINYLTREVYRSYRQLRTQGFGGS
+GIPKAWAGIDLKVQPQEPLVLKDVENTDWRLLRGDTDVRVERKDPNQVELWGLKEGTY
+LFQLTVTSSDHPEDTANVTVTVLSTKQTEDYCLASNKVGRCRGSFPRWYYDPTEQICK
+SFVYGGCLGNKNNYLREEECILACRGVQGPSMERRHPVCSGTCQPTQFRCSNGCCIDS
+FLECDDTPNCPDASDEAACEKYTSGFDELQRIHFPSDKGHCVDLPDTGLCKESIPRWY
+YNPFSEHCARFTYGGCYGNKNNFEEEQQCLESCRGISKKDVFGLRREIPIPSTGSVEM
+AVAVFLVICIVVVVAILGYCFFKNQRKDFHGHHHHPPPTPASSTVSTTEDTEHLVYNH
+TTRPL</INSDQualifier_value>
+          </INSDQualifier>
+        </INSDFeature_quals>
+      </INSDFeature>
+      <INSDFeature>
+        <INSDFeature_key>regulatory</INSDFeature_key>
+        <INSDFeature_location>2379..2384</INSDFeature_location>
+        <INSDFeature_intervals>
+          <INSDInterval>
+            <INSDInterval_from>2379</INSDInterval_from>
+            <INSDInterval_to>2384</INSDInterval_to>
+            <INSDInterval_accession>AB000095.1</INSDInterval_accession>
+          </INSDInterval>
+        </INSDFeature_intervals>
+        <INSDFeature_quals>
+          <INSDQualifier>
+            <INSDQualifier_name>regulatory_class</INSDQualifier_name>
+            <INSDQualifier_value>polyA_signal_sequence</INSDQualifier_value>
+          </INSDQualifier>
+        </INSDFeature_quals>
+      </INSDFeature>
+    </INSDSeq_feature-table>
+    <INSDSeq_sequence>cggccgagcccagctctccgagcaccgggtcggaagccgcgacccgagccgcgcaggaagctgggaccggaacctcggcggacccggccccacccaactcacctgcgcaggtcaccagcaccctcggaacccagaggcccgcgctctgaaggtgacccccctggggaggaaggcgatggcccctgcgaggacgatggcccgcgcccgcctcgccccggccggcatccctgccgtcgccttgtggcttctgtgcacgctcggcctccagggcacccaggccgggccaccgcccgcgccccctgggctgcccgcgggagccgactgcctgaacagctttaccgccggggtgcctggcttcgtgctggacaccaacgcctcggtcagcaacggagctaccttcctggagtcccccaccgtgcgccggggctgggactgcgtgcgcgcctgctgcaccacccagaactgcaacttggcgctagtggagctgcagcccgaccgcggggaggacgccatcgccgcctgcttcctcatcaactgcctctacgagcagaacttcgtgtgcaagttcgcgcccagggagggcttcatcaactacctcacgagggaagtgtaccgctcctaccgccagctgcggacccagggctttggagggtctgggatccccaaggcctgggcaggcatagacttgaaggtacaaccccaggaacccctggtgctgaaggatgtggaaaacacagattggcgcctactgcggggtgacacggatgtcagggtagagaggaaagacccaaaccaggtggaactgtggggactcaaggaaggcacctacctgttccagctgacagtgactagctcagaccacccagaggacacggccaacgtcacagtcactgtgctgtccaccaagcagacagaagactactgcctcgcatccaacaaggtgggtcgctgccggggctctttcccacgctggtactatgaccccacggagcagatctgcaagagtttcgtttatggaggctgcttgggcaacaagaacaactaccttcgggaagaagagtgcattctagcctgtcggggtgtgcaaggcccctccatggaaaggcgccatccagtgtgctctggcacctgtcagcccacccagttccgctgcagcaatggctgctgcatcgacagtttcctggagtgtgacgacacccccaactgccccgacgcctccgacgaggctgcctgtgaaaaatacacgagtggctttgacgagctccagcgcatccatttccccagtgacaaagggcactgcgtggacctgccagacacaggactctgcaaggagagcatcccgcgctggtactacaaccccttcagcgaacactgcgcccgctttacctatggtggttgttatggcaacaagaacaactttgaggaagagcagcagtgcctcgagtcttgtcgcggcatctccaagaaggatgtgtttggcctgaggcgggaaatccccattcccagcacaggctctgtggagatggctgtcgcagtgttcctggtcatctgcattgtggtggtggtagccatcttgggttactgcttcttcaagaaccagagaaaggacttccacggacaccaccaccacccaccacccacccctgccagctccactgtctccactaccgaggacacggagcacctggtctataaccacaccacccggcccctctgagcctgggtctcaccggctctcacctggccctgcttcctgcttgccaaggcagaggcctgggctgggaaaaactttggaaccagactcttgcctgtttcccaggcccactgtgcctcagagaccagggctccagcccctcttggagaagtctcagctaagctcacgtcctgagaaagctcaaaggtttggaaggagcagaaaacccttgggccagaagtaccagactagatggacctgcctgcataggagtttggaggaagttggagttttgtttcctctgttcaaagctgcctgtccctaccccatggtgctaggaagaggagtggggtggtgtcagaccctggaggccccaaccctgtcctcccgagctcctcttccatgctgtgcgcccagggctgggaggaaggacttccctgtgtagtttgtgctgtaaagagttgctttttgtttatttaatgctgtggcatgggtgaagaggaggggaagaggcctgtttggcctctctgtcctctcttcctcttcccccaagattgagctctctgcccttgatcagccccaccctggcctagaccagcagacagagccaggagaggctcagctgcattccgcagcccccacccccaaggttctccaacatcacagcccagcccacccactgggtaataaaagtggtttgtggaaacagtcacgggccagcctttcccttaaggatgtctgagagctggtctcctcactcttttcttccgcctattaaactttccgcttcttaactcacccatgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaaccttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacXXXXcggccgagcccagctctccgagcaccgggtcggaagccgcgacccgagccgcgcaggaagctgggaccggaacctcggcggacccggccccacccaactcacctgcgcaggtcaccagcaccctcggaacccagaggcccgcgctctgaaggtgacccccctggggaggaaggcgatggcccctgcgaggacgatggcccgcgcccgcctcgccccggccggcatccctgccgtcgccttgtggcttctgtgcacgctcggcctccagggcacccaggccgggccaccgcccgcgccccctgggctgcccgcgggagccgactgcctgaacagctttaccgccggggtgcctggcttcgtgctggacaccaacgcctcggtcagcaacggagctaccttcctggagtcccccaccgtgcgccggggctgggactgcgtgcgcgcctgctgcaccacccagaactgcaacttggcgctagtggagctgcagcccgaccgcggggaggacgccatcgccgcctgcttcctcatcaactgcctctacgagcagaacttcgtgtgcaagttcgcgcccagggagggcttcatcaactacctcacgagggaagtgtaccgctcctaccgccagctgcggacccagggctttggagggtctgggatccccaaggcctgggcaggcatagacttgaaggtacaaccccaggaacccctggtgctgaaggatgtggaaaacacagattggcgcctactgcggggtgacacggatgtcagggtagagaggaaagacccaaaccaggtggaactgtggggactcaaggaaggcacctacctgttccagctgacagtgactagctcagaccacccagaggacacggccaacgtcacagtcactgtgctgtccaccaagcagacagaagactactgcctcgcatccaacaaggtgggtcgctgccggggctctttcccacgctggtactatgaccccacggagcagatctgcaagagtttcgtttatggaggctgcttgggcaacaagaacaactaccttcgggaagaagagtgcattctagcctgtcggggtgtgcaaggcccctccatggaaaggcgccatccagtgtgctctggcacctgtcagcccacccagttccgctgcagcaatggctgctgcatcgacagtttcctggagtgtgacgacacccccaactgccccgacgcctccgacgaggctgcctgtgaaaaatacacgagtggctttgacgagctccagcgcatccatttccccagtgacaaagggcactgcgtggacctgccagacacaggactctgcaaggagagcatcccgcgctggtactacaaccccttcagcgaacactgcgcccgctttacctatggtggttgttatggcaacaagaacaactttgaggaagagcagcagtgcctcgagtcttgtcgcggcatctccaagaaggatgtgtttggcctgaggcgggaaatccccattcccagcacaggctctgtggagatggctgtcgcagtgttcctggtcatctgcattgtggtggtggtagccatcttgggttactgcttcttcaagaaccagagaaaggacttccacggacaccaccaccacccaccacccacccctgccagctccactgtctccactaccgaggacacggagcacctggtctataaccacaccacccggcccctctgagcctgggtctcaccggctctcacctggccctgcttcctgcttgccaaggcagaggcctgggctgggaaaaactttggaaccagactcttgcctgtttcccaggcccactgtgcctcagagaccagggctccagcccctcttggagaagtctcagctaagctcacgtcctgagaaagctcaaaggtttggaaggagcagaaaacccttgggccagaagtaccagactagatggacctgcctgcataggagtttggaggaagttggagttttgtttcctctgttcaaagctgcctgtccctaccccatggtgctaggaagaggagtggggtggtgtcagaccctggaggccccaaccctgtcctcccgagctcctcttccatgctgtgcgcccagggctgggaggaaggacttccctgtgtagtttgtgctgtaaagagttgctttttgtttatttaatgctgtggcatgggtgaagaggaggggaagaggcctgtttggcctctctgtcctctcttcctcttcccccaagattgagctctctgcccttgatcagccccaccctggcctagaccagcagacagagccaggagaggctcagctgcattccgcagcccccacccccaaggttctccaacatcacagcccagcccacccactgggtaataaaagtggtttgtggaaacagtcacgggccagcctttcccttaaggatgtctgagagctggtctcctcactcttttcttccgcctattaaactttccgcttcttaactcacccatgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaaccttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacXXXXcggccgagcccagctctccgagcaccgggtcggaagccgcgacccgagccgcgcaggaagctgggaccggaacctcggcggacccggccccacccaactcacctgcgcaggtcaccagcaccctcggaacccagaggcccgcgctctgaaggtgacccccctggggaggaaggcgatggcccctgcgaggacgatggcccgcgcccgcctcgccccggccggcatccctgccgtcgccttgtggcttctgtgcacgctcggcctccagggcacccaggccgggccaccgcccgcgccccctgggctgcccgcgggagccgactgcctgaacagctttaccgccggggtgcctggcttcgtgctggacaccaacgcctcggtcagcaacggagctaccttcctggagtcccccaccgtgcgccggggctgggactgcgtgcgcgcctgctgcaccacccagaactgcaacttggcgctagtggagctgcagcccgaccgcggggaggacgccatcgccgcctgcttcctcatcaactgcctctacgagcagaacttcgtgtgcaagttcgcgcccagggagggcttcatcaactacctcacgagggaagtgtaccgctcctaccgccagctgcggacccagggctttggagggtctgggatccccaaggcctgggcaggcatagacttgaaggtacaaccccaggaacccctggtgctgaaggatgtggaaaacacagattggcgcctactgcggggtgacacggatgtcagggtagagaggaaagacccaaaccaggtggaactgtggggactcaaggaaggcacctacctgttccagctgacagtgactagctcagaccacccagaggacacggccaacgtcacagtcactgtgctgtccaccaagcagacagaagactactgcctcgcatccaacaaggtgggtcgctgccggggctctttcccacgctggtactatgaccccacggagcagatctgcaagagtttcgtttatggaggctgcttgggcaacaagaacaactaccttcgggaagaagagtgcattctagcctgtcggggtgtgcaaggcccctccatggaaaggcgccatccagtgtgctctggcacctgtcagcccacccagttccgctgcagcaatggctgctgcatcgacagtttcctggagtgtgacgacacccccaactgccccgacgcctccgacgaggctgcctgtgaaaaatacacgagtggctttgacgagctccagcgcatccatttccccagtgacaaagggcactgcgtggacctgccagacacaggactctgcaaggagagcatcccgcgctggtactacaaccccttcagcgaacactgcgcccgctttacctatggtggttgttatggcaacaagaacaactttgaggaagagcagcagtgcctcgagtcttgtcgcggcatctccaagaaggatgtgtttggcctgaggcgggaaatccccattcccagcacaggctctgtggagatggctgtcgcagtgttcctggtcatctgcattgtggtggtggtagccatcttgggttactgcttcttcaagaaccagagaaaggacttccacggacaccaccaccacccaccacccacccctgccagctccactgtctccactaccgaggacacggagcacctggtctataaccacaccacccggcccctctgagcctgggtctcaccggctctcacctggccctgcttcctgcttgccaaggcagaggcctgggctgggaaaaactttggaaccagactcttgcctgtttcccaggcccactgtgcctcagagaccagggctccagcccctcttggagaagtctcagctaagctcacgtcctgagaaagctcaaaggtttggaaggagcagaaaacccttgggccagaagtaccagactagatggacctgcctgcataggagtttggaggaagttggagttttgtttcctctgttcaaagctgcctgtccctaccccatggtgctaggaagaggagtggggtggtgtcagaccctggaggccccaaccctgtcctcccgagctcctcttccatgctgtgcgcccagggctgggaggaaggacttccctgtgtagtttgtgctgtaaagagttgctttttgtttatttaatgctgtggcatgggtgaagaggaggggaagaggcctgtttggcctctctgtcctctcttcctcttcccccaagattgagctctctgcccttgatcagccccaccctggcctagaccagcagacagagccaggagaggctcagctgcattccgcagcccccacccccaaggttctccaacatcacagcccagcccacccactgggtaataaaagtggtttgtggaaacagtcacgggccagcctttcccttaaggatgtctgagagctggtctcctcactcttttcttccgcctattaaactttccgcttcttaactcacccatgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacXXXXcggccgagcccagctctccgagcaccgggtcggaagccgcgacccgagccgcgcaggaagctgggaccggaacctcggcggacccggccccacccaactcacctgcgcaggtcaccagcaccctcggaacccagaggcccgcgctctgaaggtgacccccctggggaggaaggcgatggcccctgcgaggacgatggcccgcgcccgcctcgccccggccggcatccctgccgtcgccttgtggcttctgtgcacgctcggcctccagggcacccaggccgggccaccgcccgcgccccctgggctgcccgcgggagccgactgcctgaacagctttaccgccggggtgcctggcttcgtgctggacaccaacgcctcggtcagcaacggagctaccttcctggagtcccccaccgtgcgccggggctgggactgcgtgcgcgcctgctgcaccacccagaactgcaacttggcgctagtggagctgcagcccgaccgcggggaggacgccatcgccgcctgcttcctcatcaactgcctctacgagcagaacttcgtgtgcaagttcgcgcccagggagggcttcatcaactacctcacgagggaagtgtaccgctcctaccgccagctgcggacccagggctttggagggtctgggatccccaaggcctgggcaggcatagacttgaaggtacaaccccaggaacccctggtgctgaaggatgtggaaaacacagattggcgcctactgcggggtgacacggatgtcagggtagagaggaaagacccaaaccaggtggaactgtggggactcaaggaaggcacctacctgttccagctgacagtgactagctcagaccacccagaggacacggccaacgtcacagtcactgtgctgtccaccaagcagacagaagactactgcctcgcatccaacaaggtgggtcgctgccggggctctttcccacgctggtactatgaccccacggagcagatctgcaagagtttcgtttatggaggctgcttgggcaacaagaacaactaccttcgggaagaagagtgcattctagcctgtcggggtgtgcaaggcccctccatggaaaggcgccatccagtgtgctctggcacctgtcagcccacccagttccgctgcagcaatggctgctgcatcgacagtttcctggagtgtgacgacacccccaactgccccgacgcctccgacgaggctgcctgtgaaaaatacacgagtggctttgacgagctccagcgcatccatttccccagtgacaaagggcactgcgtggacctgccagacacaggactctgcaaggagagcatcccgcgctggtactacaaccccttcagcgaacactgcgcccgctttacctatggtggttgttatggcaacaagaacaactttgaggaagagcagcagtgcctcgagtcttgtcgcggcatctccaagaaggatgtgtttggcctgaggcgggaaatccccattcccagcacaggctctgtggagatggctgtcgcagtgttcctggtcatctgcattgtggtggtggtagccatcttgggttactgcttcttcaagaaccagagaaaggacttccacggacaccaccaccacccaccacccacccctgccagctccactgtctccactaccgaggacacggagcacctggtctataaccacaccacccggcccctctgagcctgggtctcaccggctctcacctggccctgcttcctgcttgccaaggcagaggcctgggctgggaaaaactttggaaccagactcttgtggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaaccttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaacYYY</INSDSeq_sequence>
+  </INSDSeq>
+  <INSDSeq>
+    <INSDSeq_locus>AB000099</INSDSeq_locus>
+    <INSDSeq_length>1095</INSDSeq_length>
+    <INSDSeq_moltype>mRNA</INSDSeq_moltype>
+    <INSDSeq_topology>linear</INSDSeq_topology>
+    <INSDSeq_division>HUM</INSDSeq_division>
+    <INSDSeq_update-date>28-APR-1998</INSDSeq_update-date>
+    <INSDSeq_definition>Homo sapiens mRNA for DCRB, complete cds</INSDSeq_definition>
+    <INSDSeq_primary-accession>AB000099</INSDSeq_primary-accession>
+    <INSDSeq_accession-version>AB000099.1</INSDSeq_accession-version>
+    <INSDSeq_source>Homo sapiens (human)</INSDSeq_source>
+    <INSDSeq_organism>Homo sapiens</INSDSeq_organism>
+    <INSDSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+Catarrhini; Hominidae; Homo.</INSDSeq_taxonomy>
+    <INSDSeq_references>
+      <INSDReference>
+        <INSDReference_reference>1</INSDReference_reference>
+        <INSDReference_position>1..1095</INSDReference_position>
+        <INSDReference_authors>
+          <INSDAuthor>Nakamura,A.</INSDAuthor>
+        </INSDReference_authors>
+        <INSDReference_title>Direct Submission
+</INSDReference_title>
+        <INSDReference_journal>Submitted (23-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+Contact:Akiko Nakamura
+Institute of Medical Science, University of Tokyo, Human Genome
+Center; 4-6-1 Shirokanedai, Minato-ku, Tokyo 108-8639, Japan
+</INSDReference_journal>
+      </INSDReference>
+      <INSDReference>
+        <INSDReference_reference>2</INSDReference_reference>
+        <INSDReference_authors>
+          <INSDAuthor>Nakamura,A.</INSDAuthor>
+          <INSDAuthor>Hattri,M.</INSDAuthor>
+          <INSDAuthor>Sakaki,Y.</INSDAuthor>
+        </INSDReference_authors>
+        <INSDReference_title>A novel gene isolated from human placenta located in Down syndrome
+critical region on chromosome 21
+</INSDReference_title>
+        <INSDReference_journal>DNA Res. 4, 321-324 (1997)
+</INSDReference_journal>
+      </INSDReference>
+    </INSDSeq_references>
+    <INSDSeq_comment>
+Sequence updated (21-Mar-1997) by: Akiko Nakamura
+Sequence updated (03-Jun-1997)
+    </INSDSeq_comment>
+    <INSDSeq_feature-table>
+      <INSDFeature>
+        <INSDFeature_key>source</INSDFeature_key>
+        <INSDFeature_location>1..1095</INSDFeature_location>
+        <INSDFeature_intervals>
+          <INSDInterval>
+            <INSDInterval_from>1</INSDInterval_from>
+            <INSDInterval_to>1095</INSDInterval_to>
+            <INSDInterval_accession>AB000099.1</INSDInterval_accession>
+          </INSDInterval>
+        </INSDFeature_intervals>
+        <INSDFeature_quals>
+          <INSDQualifier>
+            <INSDQualifier_name>chromosome</INSDQualifier_name>
+            <INSDQualifier_value>21</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>db_xref</INSDQualifier_name>
+            <INSDQualifier_value>H-InvDB:HIT000057891</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>db_xref</INSDQualifier_name>
+            <INSDQualifier_value>taxon:9606</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>dev_stage</INSDQualifier_name>
+            <INSDQualifier_value>adult</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>map</INSDQualifier_name>
+            <INSDQualifier_value>21q22.2</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>mol_type</INSDQualifier_name>
+            <INSDQualifier_value>mRNA</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>organism</INSDQualifier_name>
+            <INSDQualifier_value>Homo sapiens</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>tissue_type</INSDQualifier_name>
+            <INSDQualifier_value>placenta</INSDQualifier_value>
+          </INSDQualifier>
+        </INSDFeature_quals>
+      </INSDFeature>
+      <INSDFeature>
+        <INSDFeature_key>CDS</INSDFeature_key>
+        <INSDFeature_location>106..462</INSDFeature_location>
+        <INSDFeature_intervals>
+          <INSDInterval>
+            <INSDInterval_from>106</INSDInterval_from>
+            <INSDInterval_to>462</INSDInterval_to>
+            <INSDInterval_accession>AB000099.1</INSDInterval_accession>
+          </INSDInterval>
+        </INSDFeature_intervals>
+        <INSDFeature_quals>
+          <INSDQualifier>
+            <INSDQualifier_name>codon_start</INSDQualifier_name>
+            <INSDQualifier_value>1</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>product</INSDQualifier_name>
+            <INSDQualifier_value>DCRB</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>protein_id</INSDQualifier_name>
+            <INSDQualifier_value>BAA25877.1</INSDQualifier_value>
+          </INSDQualifier>
+          <INSDQualifier>
+            <INSDQualifier_name>translation</INSDQualifier_name>
+            <INSDQualifier_value>MSLIILTRDDEPRIFTPDSDAASPALHSTSPLPDPASASPLHRE
+EKILPKVCNIVSCLSFSLPASPTDSGLASPTIITREGQQFWAKCLIWKYQLYLHGLHK
+KSDGRRDKQISASPST</INSDQualifier_value>
+          </INSDQualifier>
+        </INSDFeature_quals>
+      </INSDFeature>
+    </INSDSeq_feature-table>
+    <INSDSeq_sequence>cagtcacgggccagcctttcccttaaggatgtctgagagctggtctcctcactcttttcttccgcctattaaactttccgcttcttaactcacccatgtgtgtccatgtcgttaatcatcttgacgagagatgatgaaccccggatatttaccccagacagtgatgccgcttcaccagcattgcactctacttccccgcttcctgatcctgcctcagcttctcctctccacagagaagaaaaaattctgcctaaagtctgcaacatcgtttcctgcctgagtttcagcctgccagcttctcctacggattctggacttgccagccccacaatcataaccagagaggggcagcaattttgggcaaaatgtctgatttggaaataccaactttacctccatgggctccacaagaaatcagatgggagaagggacaagcagataagcgcaagcccatcaacctgaaggcataaaccacatccagccacctccttctgatcagcagcaaagctgacgttttgatctccatctgtctgattcttgtgtctacttctcagtttacaactccagtgggaaagaaagagctttatttacagacccataaaaatcccatcagtgtcgtcccctgctgagaggccatgtgagaccatatggaaaaacaacagccataatggcagcatggcagtggaagggtttgtcttgtgcccaggccttgcggtcatgcaagtttcttgtggatcctgttgggaccagccactcaccaaggctgagtaggtccacaaataatggggactttctaccagactcacagagaactgctgggtttttgggaagggtgtgcgtgtctttggggcatggaagttggggttatagtggagacccagaggatgagaaaacttctctgcctcagcagaagagtggcagctgagagagaggcaagaaactcgcacccactgtggactggggcagagagattttgaggagaatgaaatccagaaactctgtgtggtattagtttgtatccagagggtgaccctcttctcaaggaaatgggtgtcatcaattttctacactattaaagatataaagttcttggca</INSDSeq_sequence>
+  </INSDSeq>
+  <INSDSeq>
+    <INSDSeq_locus>AB000114</INSDSeq_locus>
+    <INSDSeq_length>2263</INSDSeq_length>
+    <INSDSeq_moltype>mRNA</INSDSeq_moltype>
+    <INSDSeq_topology>linear</INSDSeq_topology>
+    <INSDSeq_division>HUM</INSDSeq_division>
+    <INSDSeq_update-date>05-FEB-1999</INSDSeq_update-date>
+    <INSDSeq_definition>Homo sapiens mRNA for osteomodulin, complete cds</INSDSeq_definition>
+    <INSDSeq_primary-accession>AB000114</INSDSeq_primary-accession>
+    <INSDSeq_accession-version>AB000114.1</INSDSeq_accession-version>
+    <INSDSeq_source>Homo sapiens (human)</INSDSeq_source>
+    <INSDSeq_organism>Homo sapiens</INSDSeq_organism>
+    <INSDSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+Catarrhini; Hominidae; Homo.</INSDSeq_taxonomy>
+    <INSDSeq_references>
+      <INSDReference>
+        <INSDReference_reference>1</INSDReference_reference>
+        <INSDReference_position>1..2263</INSDReference_position>
+        <INSDReference_authors>
+          <INSDAuthor>Ohno,I.</INSDAuthor>
+        </INSDReference_authors>
+        <INSDReference_title>Direct Submission
+</INSDReference_title>
+        <INSDReference_journal>Submitted (26-DEC-1996) to the DDBJ/EMBL/GenBank databases.
+Contact:Ikko Ohno
+Institute for Molecular and Cellular Biology, Osaka University,
+Molecular Genetics; 1-3 Yamada-oka, Suita, Osaka 565, Japan
+</INSDReference_journal>
+      </INSDReference>
+      <INSDReference>
+        <INSDReference_reference>2</INSDReference_reference>
+        <INSDReference_authors>
