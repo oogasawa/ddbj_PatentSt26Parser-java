@@ -2,12 +2,12 @@
 
 A parser for ST.26 XML format sequence data (Experimental).
 
-## Prerequiresite
+## Prerequisites
 
 - JDK 17 or later.
 - Apache Maven 3.8.4 or later.
 
-## Compile the parser program
+## Compilation and Invocation of the program
 
 
 You can compile this program as follows:
